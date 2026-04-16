@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(270deg, black, grey, Silver);
+    background: linear-gradient(270deg, black, grey, Silver, blue, green, yellow, red);
     background-size: 400% 400%;
     animation: ondas 15s ease infinite;
     display: flex;
